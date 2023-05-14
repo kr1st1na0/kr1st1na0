@@ -1,4 +1,8 @@
 ### Hi there 👋
+<p align="center">
+    ##Every day I just...
+   <img src="https://media.tenor.com/iqZ0ku7e1jkAAAAC/cat-computer.gif" />   
+</p>
 
 <!--
 **kr1st1na0/kr1st1na0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
